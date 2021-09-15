@@ -4,7 +4,7 @@ developing and maintaining Web. I have experienced and worked on Front
 and back end technology and working with API and version control system
 </h3>
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" / style="border-radius:20px"> </p>
 
