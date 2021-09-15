@@ -4,13 +4,15 @@ developing and maintaining Web. I have experienced and worked on Front
 and back end technology and working with API and version control system
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" /> </p>
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" / style="border-radius:20px"> </p>
 
 - 🔭 I’m currently working on **Livewire & Laravel 8***
 
 - 🌱 I’m currently learning **Git and Flutter**
 
-- 📫 How to reach me <a href="https://mail.google.com/mail/u/2/#inbox?compose=new" ></a> **hoshmandG900@gmail.com**
+- 📫 How to reach me [HoshmandG900](https://mail.google.com/mail/u/2/#inbox?compose=new)
 
 - ⚡ Fun fact **i play Games and i love coffee**
 
