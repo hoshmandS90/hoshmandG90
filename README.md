@@ -4,7 +4,7 @@ developing and maintaining Web. I have experienced and worked on Front
 and back end technology and working with API and version control system
 </h3>
 
- <img align="right" alt="GIF" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
+ <img align="right" class="rounded-full" alt="GIF" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" / style="border-radius:20px"> </p>
 
@@ -19,10 +19,10 @@ and back end technology and working with API and version control system
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/hoshman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoshmand kamal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_hos6mand_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hos6mand" height="30" width="40" /></a>
+<a href="https://wa.me/07700415173" target="blank"><img align="center"src="https://cdn.iconscout.com/icon/free/png-256/whatsapp-43-189795.png"  alt="hoshmand kamal" height="30" width="30" /></a>
 
- <a href="https://www.instagram.com/_hos6mand_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hos6mand" height="30" width="40" /></a>
- <a href="https://www.instagram.com/_hos6mand_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hos6mand" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
