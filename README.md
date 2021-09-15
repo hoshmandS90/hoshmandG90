@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hoshmand Kamal</h1>
-<h3 align="left">I’m full stack developer with the hands on experience of designing, developing and maintaining Web.</h3>
+## Hi there, I'm Hoshmand Kamal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" title="Welcome to my profile">
+<h3 align="left">I’m full stack developer with the hands on experience of designing,
+developing and maintaining Web. I have experienced and worked on Front
+and back end technology and working with API and version control system
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" /> </p>
 
@@ -7,7 +10,7 @@
 
 - 🌱 I’m currently learning **Git and Flutter**
 
-- 📫 How to reach me **hoshmandG900@gmail.com**
+- 📫 How to reach me <a href="https://mail.google.com/mail/u/2/#inbox?compose=new" ></a> **hoshmandG900@gmail.com**
 
 - ⚡ Fun fact **i play Games and i love coffee**
 
