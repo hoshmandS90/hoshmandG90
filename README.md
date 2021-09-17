@@ -17,6 +17,7 @@ and back end technology and working with API and version control system
  <br>
  <br>
 
+<p style="margin-top:20px">
 - 🔭 I’m currently working on **Livewire & Laravel 8***
 
 - 🌱 I’m currently learning **Git and Flutter**
@@ -24,6 +25,7 @@ and back end technology and working with API and version control system
 - 📫 How to reach me [HoshmandG900](https://mail.google.com/mail/u/2/#inbox?compose=new)
 
 - ⚡ Fun fact **i play Games and i love coffee**
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
