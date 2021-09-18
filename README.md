@@ -11,7 +11,7 @@ and back end technology and working with API and version control system
  <br>
  <br>
 
-- 🔭 I’m currently working on **Livewire & Dart Programming 8***
+- 🔭 I’m currently working on **Livewire & Dart Programming 
 
 - 🌱 I’m currently learning **Git and Flutter**
 
