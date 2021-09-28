@@ -4,10 +4,11 @@ developing and maintaining Web. I have experienced and worked on Front
 and back end technology and working with API and version control system
 </h3>
 
-<p align="left"  style="margin-top:40px ;margin-bottom:20px" > <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" / style="border-radius:20px"> </p>
+<p align="left"  style="margin-top:40px ;margin-bottom:20px" > <img src="https://komarev.com/ghpvc/?username=hoshmandg90&label=Profile%20views&color=0e75b6&style=flat" alt="hoshmandg90" / > </p>
 
 
- <img width="400" height="320"  align="right" alt="GIF" src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif"  />
+  <a><img align="right" title="Hoshmand Kamal" alt="GIF" src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif" 
+                     height="auto" width="400" ></a>
  <br>
  <br>
 
