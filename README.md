@@ -39,8 +39,9 @@ and back end technology and working with API and version control system
  <a href="https://docs.github.com/en" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="Git" width="40" height="40"/> 
  </a>
  <a href="https://dart.dev/guides" target="_blank"> <img src="https://oscarcs.gallerycdn.vsassets.io/extensions/oscarcs/dart-syntax-highlighting-only/1.0.1/1586764023256/Microsoft.VisualStudio.Services.Icons.Default" title="Dart Programming" width="40" height="40"/>
- 
  </a>
+   <a href="https://docs.flutter.dev/" target="_blank"> <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" title="flutter Dev" width="40" height="40"/>
+  </a>
  
  
  
