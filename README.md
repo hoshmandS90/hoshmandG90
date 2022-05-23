@@ -14,7 +14,7 @@ and back end technology and working with API and version control system
 
 - 🔭 I’m currently working on **Livewire & Laravel 
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **Flutter and REST API**
 
 - 📫 How to reach me [HoshmandG900](https://mail.google.com/mail/u/2/#inbox?compose=new)
 
